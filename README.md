@@ -13,8 +13,8 @@ Trip distance (derived from Haversine distance)
 Data cleaning and preprocessing
 Feature engineering
 Exploratory data analysis to identify patterns in trip duration
-Model training using: Linear Regression and Random Forest Regressor
-Model evaluation using Root Mean Squared Error (RMSE)
+Model training using : Linear Regression and Random Forest Regressor
+Model evaluation using Root Mean Squared Error (RMSE). Linear Regression = 3213.7, Random Forest = 3212.2
 
 ### Key Results
 Random Forest outperformed Linear Regression by capturing non-linear relationships
